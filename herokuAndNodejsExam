@@ -1,0 +1,11 @@
+1. Express 설치
+   - npm i -g express-generator
+2. Express 프로젝트 생성
+   - express --session --ejs -css stylus helloherockuB112
+   express 옵션 설명
+   https://medium.com/wasd/express-js%EC%9D%98-%EC%9B%B9-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-ac7eb4905b68
+3. npm 패키지 설치
+   - npm install
+   - npm start ### 웹서버 실행
+4. localhost:3000
+   - 웹서버 디폴트 포트 3000
